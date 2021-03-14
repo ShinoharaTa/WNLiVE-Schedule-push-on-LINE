@@ -23,8 +23,8 @@ casters_master = {
     "yuki": "内田 侑希",
     "ailin": "山岸 愛梨",
     "sayane": "江川 清音",
-    "izumi": "眞家 泉",
-    "nana": "高山 奈々",
+    "izumin": "眞家 泉",
+    "takayama": "高山 奈々",
 }
 
 def main():
