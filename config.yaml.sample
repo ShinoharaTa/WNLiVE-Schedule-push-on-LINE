@@ -1,0 +1,27 @@
+line_token: your_line_token
+notification_time:
+  - "08:00"
+  - "20:00"
+announcer:
+  hiyama2018:
+    name: "檜山 沙耶"
+  matsu:
+    name: "松雪 彩花"
+  ayame:
+    name: "武藤 彩芽"
+  komaki2018:
+    name: "駒木 結衣"
+  shirai:
+    name: "白井 ゆかり"
+  nao:
+    name: "角田 奈緒子"
+  yuki:
+    name: "内田 侑希"
+  ailin:
+    name: "山岸 愛梨"
+  sayane:
+    name: "江川 清音"
+  izumin:
+    name: "眞家 泉"
+  takayama:
+    name: "高山 奈々"
